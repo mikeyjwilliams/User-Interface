@@ -206,6 +206,7 @@ main {
 	display: inline-block;
 	margin-left: 85px;
 	/* hack still working on getting right other ways. */
+	vertical-align: text-bottom;
 }
 
 .col-half {
