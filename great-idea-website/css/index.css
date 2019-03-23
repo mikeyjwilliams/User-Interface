@@ -192,6 +192,10 @@ header nav a:first-child {
 	margin-left: 0;
 }
 
+main {
+	margin-top: 50px;
+}
+
 .logo {
 	display: inline-block;
 	margin-left: 85px;
@@ -200,4 +204,22 @@ header nav a:first-child {
 .half {
 	display: inline-block;
 	width: 433px;
+	vertical-align: top;
 }
+
+.main-focus {
+	padding: 60px;
+	border: 1px solid salmon;
+}
+
+.font {
+	font-size: 70px;
+	text-align: center;
+
+}
+
+button {
+	margin: 0 auto;
+}
+
+.btn {}
