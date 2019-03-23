@@ -168,9 +168,9 @@ html {
 }
 
 .container {
-	width: 950px;
-	margin-left: 75px;
-	margin-right: 75px;
+	margin: 0 auto;
+	width: 1150px;
+	border: 1px solid aqua;
 }
 
 header nav {
@@ -179,9 +179,10 @@ header nav {
 
 header nav a {
 	margin-left: 70px;
-	border: 1px solid cyan;
 }
 
 .logo {
 	display: inline-block;
+	margin-left: 10px;
+	border: 1px solid salmon;
 }
