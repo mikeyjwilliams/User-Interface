@@ -188,8 +188,10 @@ header nav {
 header nav a {
 	margin-left: 35px;
 	color: slategray;
-	text-decoration: none;
+}
 
+a {
+	text-decoration: none;
 }
 
 header nav a:first-child {
@@ -254,4 +256,8 @@ footer hr {
 	margin-top: 60px;
 	text-align: center;
 
+}
+
+address a {
+	color: black;
 }
