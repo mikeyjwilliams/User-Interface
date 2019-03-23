@@ -258,6 +258,10 @@ footer hr {
 	text-align: center;
 }
 
+address {
+	font-family: 'Merriweather', serif;
+}
+
 address a {
 	color: black;
 }
