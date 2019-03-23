@@ -169,20 +169,28 @@ html {
 
 .container {
 	margin: 0 auto;
-	width: 1150px;
+	width: 876px;
 	border: 1px solid aqua;
 }
+
+
+header {}
 
 header nav {
 	display: inline-block;
 }
 
 header nav a {
-	margin-left: 70px;
+	margin-left: 35px;
+	color: slategray;
+
+}
+
+header nav a:first-child {
+	margin-left: 0;
 }
 
 .logo {
 	display: inline-block;
-	margin-left: 10px;
-	border: 1px solid salmon;
+	margin-left: 85px;
 }
