@@ -230,3 +230,11 @@ main {
 .feature-about {
 	margin-top: 70px;
 }
+
+.info {
+	padding: 0 5px 5px 5px;
+}
+
+.middle-img {
+	margin: 45px 0;
+}
