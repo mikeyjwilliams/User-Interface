@@ -173,6 +173,9 @@ html {
 	border: 1px solid aqua;
 }
 
+hr {
+	margin-bottom: 35px;
+}
 
 header {
 	margin-top: 20px;
@@ -222,4 +225,9 @@ main {
 	border: 1px solid black;
 	padding: 5px 30px;
 	background-color: white;
+	margin: 0 auto;
+}
+
+.feature-about {
+	margin-top: 70px;
 }
