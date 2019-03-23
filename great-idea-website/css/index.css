@@ -203,6 +203,7 @@ main {
 .logo {
 	display: inline-block;
 	margin-left: 85px;
+	/* hack still working on getting right other ways. */
 }
 
 .col-half {
@@ -242,8 +243,15 @@ main {
 
 .col-third {
 	display: inline-block;
-	width: 290px;
+	width: 288px;
+}
 
-	border: 1px solid salmon;
+footer hr {
+	margin-top: 50px;
+}
+
+.center {
+	margin-top: 60px;
+	text-align: center;
 
 }
