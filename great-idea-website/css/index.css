@@ -174,7 +174,9 @@ html {
 }
 
 
-header {}
+header {
+	margin-top: 20px;
+}
 
 header nav {
 	display: inline-block;
