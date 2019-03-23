@@ -218,8 +218,8 @@ main {
 
 }
 
-button {
-	margin: 0 auto;
+.btn {
+	border: 1px solid black;
+	padding: 5px 30px;
+	background-color: white;
 }
-
-.btn {}
