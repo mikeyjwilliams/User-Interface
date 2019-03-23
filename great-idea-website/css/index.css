@@ -196,3 +196,8 @@ header nav a:first-child {
 	display: inline-block;
 	margin-left: 85px;
 }
+
+.half {
+	display: inline-block;
+	width: 433px;
+}
