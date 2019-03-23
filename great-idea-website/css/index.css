@@ -158,3 +158,30 @@ h5 {
 }
 
 /* Your code starts here! */
+html {
+	box-sizing: border-box;
+}
+
+*::after,
+*::before {
+	box-sizing: inherit;
+}
+
+.container {
+	width: 950px;
+	margin-left: 75px;
+	margin-right: 75px;
+}
+
+header nav {
+	display: inline-block;
+}
+
+header nav a {
+	margin-left: 70px;
+	border: 1px solid cyan;
+}
+
+.logo {
+	display: inline-block;
+}
