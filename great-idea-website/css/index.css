@@ -170,7 +170,6 @@ html {
 .container {
 	margin: 0 auto;
 	width: 876px;
-	border: 1px solid aqua;
 }
 
 hr {
@@ -253,7 +252,7 @@ footer hr {
 	margin-top: 50px;
 }
 
-.center {
+.copy {
 	margin-top: 60px;
 	text-align: center;
 
