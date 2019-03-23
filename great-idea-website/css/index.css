@@ -188,6 +188,7 @@ header nav {
 header nav a {
 	margin-left: 35px;
 	color: slategray;
+	text-decoration: none;
 
 }
 
@@ -204,7 +205,7 @@ main {
 	margin-left: 85px;
 }
 
-.half {
+.col-half {
 	display: inline-block;
 	width: 433px;
 	vertical-align: top;
@@ -224,7 +225,7 @@ main {
 	border: 1px solid black;
 	padding: 5px 30px;
 	background-color: white;
-	margin: 0 auto;
+	margin-left: 80px;
 }
 
 .feature-about {
@@ -237,4 +238,12 @@ main {
 
 .middle-img {
 	margin: 45px 0;
+}
+
+.col-third {
+	display: inline-block;
+	width: 290px;
+
+	border: 1px solid salmon;
+
 }
